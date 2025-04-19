@@ -1,2 +1,1 @@
-# azure-cognitive-searche
-Projeto feito durante o bootcamp XP Inc. - Cloud com Inteligência Artificial na Dio: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+"Este repositório documenta as práticas realizadas no laboratório dedicado à aplicação de técnicas de organização e pesquisa de documentos, utilizando inteligência artificial para ingestão de dados e indexação."
